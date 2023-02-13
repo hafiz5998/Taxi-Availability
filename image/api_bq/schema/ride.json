@@ -1,0 +1,53 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "latitude",
+    "field_type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "longitude",
+    "field_type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "coordinate",
+    "field_type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "timestamp",
+    "field_type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "cluster_label",
+    "field_type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "f_latitude",
+    "field_type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "f_longitude",
+    "field_type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "city",
+    "field_type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "f_coordinate",
+    "field_type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "f_date",
+    "field_type": "INTEGER"
+  }
+
+]
